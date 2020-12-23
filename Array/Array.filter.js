@@ -11,3 +11,5 @@ let longWordss = words.filter(word => {
 });
 
 console.log(longWordss);
+
+console.table([{ 'Chrome': '(Yes)', 'Edge': '(Yes)', 'Firefox': '1.5', 'Internet Explorer': '9', 'Opera': '(Yes)', 'Safari': '(Yes)' }]);
